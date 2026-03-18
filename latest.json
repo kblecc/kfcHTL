@@ -1,0 +1,2732 @@
+{
+  "items": [
+    {
+      "id": "02aNBKWFljwZfkRQD7dL",
+      "name": "推廣粥 (已組裝)",
+      "duration": 1.5,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "湯類",
+      "order": 3,
+      "expDuration": 1.5,
+      "prodDuration": 0
+    },
+    {
+      "id": "0E3ec5VvKO6T1WxYtnGz",
+      "name": "凍奶茶底 (室溫)",
+      "duration": 3,
+      "isEOD": false,
+      "temp": "",
+      "category": "飲品",
+      "order": 1,
+      "expDuration": 3,
+      "prodDuration": 0
+    },
+    {
+      "id": "0Gh4uUET2V0742v2pEbq",
+      "name": "雞汁 (保溫煲)",
+      "duration": 3,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "飯類/小食",
+      "order": 16,
+      "expDuration": 3,
+      "prodDuration": 0
+    },
+    {
+      "id": "0TKyVYFsCozDXJ4IXXFW",
+      "name": "已加工鹹蛋黃醬",
+      "duration": 24,
+      "isEOD": false,
+      "temp": "",
+      "category": "醬汁",
+      "order": 16,
+      "expDuration": 24,
+      "prodDuration": 0
+    },
+    {
+      "id": "0kWpZvIR7YSPgkfSOOQV",
+      "name": "木魚碎 (原包)",
+      "duration": 720,
+      "isEOD": true,
+      "temp": "",
+      "category": "配料",
+      "order": 15,
+      "expDuration": 720,
+      "prodDuration": 0
+    },
+    {
+      "name": "蕃茄湯（保溫煲）",
+      "prodDuration": 0,
+      "expDuration": 3,
+      "category": "早餐成品",
+      "temp": "≥ 60°C",
+      "isEOD": false,
+      "id": "18938165-0627-4668-be86-d1f04a1bad5c",
+      "order": 1
+    },
+    {
+      "id": "1LmKXiS0B4Jwz2XoqAMB",
+      "name": "預先組裝飲品杯",
+      "duration": 1,
+      "isEOD": true,
+      "temp": "",
+      "category": "飲品",
+      "order": 11,
+      "expDuration": 1,
+      "prodDuration": 0
+    },
+    {
+      "id": "1OaQcHmwNSD7uytyRkGB",
+      "name": "推廣扭扭粉湯 (保溫煲)",
+      "duration": 1.5,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "早餐成品",
+      "order": 6,
+      "expDuration": 1.5,
+      "prodDuration": 0
+    },
+    {
+      "id": "1zU7Da0yCr5S8bBcxohf",
+      "name": "茶粉",
+      "duration": 48,
+      "isEOD": true,
+      "temp": "",
+      "category": "飲品",
+      "order": 13,
+      "expDuration": 48,
+      "prodDuration": 0
+    },
+    {
+      "id": "21dNOH30cJfUuNeIGoXC",
+      "name": "火腿 (膠盒+蓋)",
+      "duration": 0.5,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "早餐",
+      "order": 2,
+      "expDuration": 0.5,
+      "prodDuration": 0
+    },
+    {
+      "id": "22dFR4lP8NO1ckOGodqe",
+      "name": "醬燒雞扒 (膠盒+蓋)",
+      "duration": 1,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "雞件",
+      "order": 6,
+      "expDuration": 1,
+      "prodDuration": 0
+    },
+    {
+      "id": "2VZpCIZnXHX3HxRuFNWY",
+      "name": "芝心火腿脆卷 (未包裝)",
+      "duration": 0.5,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "飽/卷（早）",
+      "order": 5,
+      "expDuration": 0.5,
+      "prodDuration": 0
+    },
+    {
+      "id": "2ciCJLEL7anCfSRJ3UmG",
+      "name": "使用中凍品 4小時",
+      "duration": 4,
+      "isEOD": false,
+      "temp": "N/A",
+      "category": "常用",
+      "order": 0,
+      "expDuration": 4,
+      "prodDuration": 0
+    },
+    {
+      "id": "2uc1siCCF3R3Wr7W27SI",
+      "name": "推廣雞塗醬 (不銹鋼煲)",
+      "duration": 1,
+      "isEOD": true,
+      "temp": "",
+      "category": "醬汁",
+      "order": 12,
+      "expDuration": 1,
+      "prodDuration": 0
+    },
+    {
+      "id": "3HCLQNEwqZdEbmmIeBE2",
+      "name": "無骨雞塊",
+      "duration": 0.5,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "特制",
+      "order": 14,
+      "expDuration": 0.5,
+      "prodDuration": 0
+    },
+    {
+      "id": "3JRlMAV0ldpOkCtVEDID",
+      "name": "雞汁 (保溫煲)",
+      "duration": 3,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "早餐",
+      "order": 6,
+      "expDuration": 3,
+      "prodDuration": 0
+    },
+    {
+      "id": "3Jhbtf55vK5844z7NiQv",
+      "name": "推廣雞塗醬 (原樽)",
+      "duration": 720,
+      "isEOD": true,
+      "temp": "",
+      "category": "醬汁",
+      "order": 9,
+      "expDuration": 720,
+      "prodDuration": 0
+    },
+    {
+      "id": "3XM69hriMZIXXJFOkOiU",
+      "name": "炸乾蔥 (原樽)",
+      "duration": 336,
+      "isEOD": true,
+      "temp": "",
+      "category": "配料",
+      "order": 1,
+      "expDuration": 336,
+      "prodDuration": 0
+    },
+    {
+      "id": "4GmlbalAk0GvhtEwv3ZY",
+      "name": "罐裝食用油",
+      "duration": 720,
+      "isEOD": true,
+      "temp": "",
+      "category": "奶製品",
+      "order": 3,
+      "expDuration": 720,
+      "prodDuration": 0
+    },
+    {
+      "id": "4KfarA4foGD3OUkjUOrr",
+      "name": "白汁蔬菜包",
+      "duration": 24,
+      "isEOD": false,
+      "temp": "0-5°C",
+      "category": "蔬果類",
+      "order": 8,
+      "expDuration": 24,
+      "prodDuration": 0
+    },
+    {
+      "id": "4mAcrrVuLjAUsgt9baT8",
+      "name": "薯餅",
+      "duration": 0.5,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "早餐成品",
+      "order": 10,
+      "expDuration": 0.5,
+      "prodDuration": 0
+    },
+    {
+      "id": "5D1ycfkccheyWX08JBDT",
+      "name": "家鄉雞",
+      "duration": 1.5,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "雞件",
+      "order": 0,
+      "expDuration": 1.5,
+      "prodDuration": 0
+    },
+    {
+      "id": "5QWvBikQvQC3yIi52dKF",
+      "name": "推廣雞翼 (已印醬)",
+      "duration": 0.5,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "特制",
+      "order": 12,
+      "expDuration": 0.5,
+      "prodDuration": 0
+    },
+    {
+      "name": "蕃茄湯（保溫櫃）",
+      "prodDuration": 0,
+      "expDuration": 4,
+      "category": "早餐成品",
+      "temp": "≥ 60°C",
+      "isEOD": true,
+      "id": "5deSiKF2RXk6FdbwMIOO",
+      "order": 0
+    },
+    {
+      "name": "鬆甜包 (原箱溶解)",
+      "prodDuration": 9,
+      "expDuration": 48,
+      "category": "廚房雪櫃",
+      "temp": "0-5°C",
+      "isEOD": false,
+      "id": "61ZK8VbAJHMPJ8Xwwida",
+      "order": 9
+    },
+    {
+      "id": "6Zgh3JGNZ2YArCzM7rMx",
+      "name": "巴辣雞扒",
+      "duration": 1,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "雞件",
+      "order": 4,
+      "expDuration": 1,
+      "prodDuration": 0
+    },
+    {
+      "name": "意式包 (原箱溶解)",
+      "prodDuration": 8,
+      "expDuration": 48,
+      "category": "廚房雪櫃",
+      "temp": "0-5°C",
+      "isEOD": false,
+      "id": "7Ah6LvUFyu9RhPIOyeYg",
+      "order": 6
+    },
+    {
+      "id": "7H2cA1J5136g9AExyuSl",
+      "name": "雞皇汁 (保溫煲)",
+      "duration": 2,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "飯類/小食",
+      "order": 7,
+      "expDuration": 2,
+      "prodDuration": 0
+    },
+    {
+      "id": "7H6Ec09lOWBCEVXjeKSn",
+      "name": "朱古力 (不銹鋼煲)",
+      "duration": 1,
+      "isEOD": true,
+      "temp": "0-5°C",
+      "category": "原料",
+      "order": 8,
+      "expDuration": 1,
+      "prodDuration": 0
+    },
+    {
+      "id": "7QbsH5dp9ZwLi7nlmmRL",
+      "name": "葡撻",
+      "duration": 1.5,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "飯類/小食",
+      "order": 12,
+      "expDuration": 1.5,
+      "prodDuration": 0
+    },
+    {
+      "id": "7jJu3mgzsmSGBSAMkpmK",
+      "name": "推廣雞塗醬 (原袋)",
+      "duration": 24,
+      "isEOD": false,
+      "temp": "",
+      "category": "醬汁",
+      "order": 8,
+      "expDuration": 24,
+      "prodDuration": 0
+    },
+    {
+      "id": "7l50f6CC8rWpEXtetGh8",
+      "name": "鬆軟厚焗蛋",
+      "duration": 1,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "早餐",
+      "order": 8,
+      "expDuration": 1,
+      "prodDuration": 0
+    },
+    {
+      "id": "7tcGoxErzVIrUbj88c0T",
+      "name": "糖霜 (原袋)",
+      "duration": 1440,
+      "isEOD": true,
+      "temp": "",
+      "category": "配料",
+      "order": 6,
+      "expDuration": 1440,
+      "prodDuration": 0
+    },
+    {
+      "id": "80yyDAYHPGadU1sg5rmo",
+      "name": "田園雞絲口袋卷",
+      "duration": 0.166,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "飽/卷（早）",
+      "order": 0,
+      "expDuration": 0.166,
+      "prodDuration": 0
+    },
+    {
+      "id": "8AOSKftmfSCfBuoRs4Xt",
+      "name": "香蜜鬆餅 (保溫櫃)",
+      "duration": 1,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "早餐成品",
+      "order": 11,
+      "expDuration": 1,
+      "prodDuration": 0
+    },
+    {
+      "name": "香腸 (溶解及未開封) [重疊]",
+      "prodDuration": 24,
+      "expDuration": 336,
+      "category": "早餐（溶解及未開封）",
+      "temp": "",
+      "isEOD": false,
+      "id": "8IewFmIrcpNurcaCgZrO",
+      "order": 3
+    },
+    {
+      "id": "8OJkQECEMl71FEdLXZBL",
+      "name": "飯底 (已包裝)",
+      "duration": 2,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "飯類/小食",
+      "order": 3,
+      "expDuration": 2,
+      "prodDuration": 0
+    },
+    {
+      "name": "推廣鬆餅餅漿 (冷藏儲存)",
+      "prodDuration": 4,
+      "expDuration": 12,
+      "category": "廚房雪櫃",
+      "temp": "0-5°C",
+      "isEOD": false,
+      "id": "8oz2HiDKcjkBFhNaFKVm",
+      "order": 1
+    },
+    {
+      "id": "92lOsfCaKtiS6Kyon3K3",
+      "name": "醬燒雞扒包",
+      "duration": 0.166,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "飽/卷（早）",
+      "order": 1,
+      "expDuration": 0.166,
+      "prodDuration": 0
+    },
+    {
+      "id": "99QWkkMRfi9WFfNkjnTe",
+      "name": "意式香草碎 (原樽)",
+      "duration": 720,
+      "isEOD": true,
+      "temp": "",
+      "category": "配料",
+      "order": 19,
+      "expDuration": 720,
+      "prodDuration": 0
+    },
+    {
+      "id": "9D7r8Q5kkXJMbqERiRGu",
+      "name": "蜜糖 (原支)",
+      "duration": 720,
+      "isEOD": false,
+      "temp": "",
+      "category": "醬汁",
+      "order": 0,
+      "expDuration": 720,
+      "prodDuration": 0
+    },
+    {
+      "id": "9GP7yXxOrgafZlG8tQ3O",
+      "name": "芝士火腿蛋包",
+      "duration": 0.166,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "飽/卷（早）",
+      "order": 2,
+      "expDuration": 0.166,
+      "prodDuration": 0
+    },
+    {
+      "id": "9Hkiio5GsElriQKQvGVX",
+      "name": "超勁·辣漢堡醬 (原袋)",
+      "duration": 72,
+      "isEOD": false,
+      "temp": "",
+      "category": "醬汁",
+      "order": 6,
+      "expDuration": 72,
+      "prodDuration": 0
+    },
+    {
+      "id": "A4PZaNyE9muClFfwJmUU",
+      "name": "推廣葡撻 (未組裝)",
+      "duration": 1,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "特制",
+      "order": 2,
+      "expDuration": 1,
+      "prodDuration": 0
+    },
+    {
+      "id": "ADJvEDlQNCFRGzi63kiP",
+      "name": "蘑菇汁 (保溫櫃)",
+      "duration": 3,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "飯類/小食",
+      "order": 4,
+      "expDuration": 3,
+      "prodDuration": 0
+    },
+    {
+      "id": "AHCDrqbxd27ZVQKgrzPT",
+      "name": "蕃茄醬 (樽)",
+      "duration": 1,
+      "isEOD": true,
+      "temp": "",
+      "category": "醬汁",
+      "order": 5,
+      "expDuration": 1,
+      "prodDuration": 0
+    },
+    {
+      "id": "AJzkzz0gwGHefRd8fNTo",
+      "name": "冷凍雞手指 (已開封)",
+      "duration": 720,
+      "isEOD": true,
+      "temp": "",
+      "category": "冷凍食品",
+      "order": 4,
+      "expDuration": 720,
+      "prodDuration": 0
+    },
+    {
+      "id": "Ab8jhOThO9FpbefGTrBH",
+      "name": "凍咖啡底 (冷藏)",
+      "duration": 4,
+      "isEOD": true,
+      "temp": "0-5°C",
+      "category": "飲品",
+      "order": 7,
+      "expDuration": 4,
+      "prodDuration": 0
+    },
+    {
+      "name": "雞絲 (溶解及未開封)",
+      "prodDuration": 24,
+      "expDuration": 48,
+      "category": "早餐（溶解及未開封）",
+      "temp": "",
+      "isEOD": false,
+      "id": "AgQ9sJNVqPxHXCNaPtX9",
+      "order": 4
+    },
+    {
+      "id": "AsInRyNVZ1zpuRSuB7eD",
+      "name": "預先組裝麵粉",
+      "duration": 48,
+      "isEOD": true,
+      "temp": "",
+      "category": "原料",
+      "order": 4,
+      "expDuration": 48,
+      "prodDuration": 0
+    },
+    {
+      "id": "C2jxf0uLZWBPE3pLCEkG",
+      "name": "紫洋蔥條 (原袋)",
+      "duration": 24,
+      "isEOD": false,
+      "temp": "0-5°C",
+      "category": "蔬果類",
+      "order": 2,
+      "expDuration": 24,
+      "prodDuration": 0
+    },
+    {
+      "id": "C5MoIPJc20h1mUh9ZXzq",
+      "name": "蕃茄醬 (包)",
+      "duration": 168,
+      "isEOD": false,
+      "temp": "",
+      "category": "醬汁",
+      "order": 4,
+      "expDuration": 168,
+      "prodDuration": 0
+    },
+    {
+      "id": "CARXrpqbYvjJCe4qGUUi",
+      "name": "雞絲 (已溶解及開封)",
+      "duration": 24,
+      "isEOD": false,
+      "temp": "0-5°C",
+      "category": "配料",
+      "order": 3,
+      "expDuration": 24,
+      "prodDuration": 0
+    },
+    {
+      "id": "CWhpmwWEDUqvkVSwE1DS",
+      "name": "UHT 奶",
+      "duration": 48,
+      "isEOD": false,
+      "temp": "0-5°C",
+      "category": "奶製品",
+      "order": 0,
+      "expDuration": 48,
+      "prodDuration": 0
+    },
+    {
+      "id": "Cy3qALXRBjHR2UuE0bRX",
+      "name": "家鄉雞扒",
+      "duration": 1,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "早餐",
+      "order": 9,
+      "expDuration": 1,
+      "prodDuration": 0
+    },
+    {
+      "id": "Dga8jPXBGHf3Cxm4L4Fi",
+      "name": "推廣包醬 (唧樽)",
+      "duration": 1,
+      "isEOD": true,
+      "temp": "",
+      "category": "醬汁",
+      "order": 11,
+      "expDuration": 1,
+      "prodDuration": 0
+    },
+    {
+      "id": "DknbEHmf45GbTiHfLKEv",
+      "name": "冷凍格格脆薯塊 (已開封)",
+      "duration": 720,
+      "isEOD": true,
+      "temp": "",
+      "category": "冷凍食品",
+      "order": 3,
+      "expDuration": 720,
+      "prodDuration": 0
+    },
+    {
+      "id": "E2PaPcaLKtPkMjKZEFaC",
+      "name": "推廣雞扒 (已印醬)",
+      "duration": 0.5,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "雞件",
+      "order": 7,
+      "expDuration": 0.5,
+      "prodDuration": 0
+    },
+    {
+      "id": "EQ37T6DXJHfD2gNUmN79",
+      "name": "芝士火腿包",
+      "duration": 0.166,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "飽/卷（早）",
+      "order": 8,
+      "expDuration": 0.166,
+      "prodDuration": 0
+    },
+    {
+      "id": "ERHXk9YRtsjku23JYPaV",
+      "name": "推廣飯汁 (保溫煲)",
+      "duration": 2,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "特制",
+      "order": 1,
+      "expDuration": 2,
+      "prodDuration": 0
+    },
+    {
+      "id": "FBcJYFzd9bV1nQOTXE3G",
+      "name": "已加熱通粉 (已組裝)",
+      "duration": 0.5,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "早餐成品",
+      "order": 9,
+      "expDuration": 0.5,
+      "prodDuration": 0
+    },
+    {
+      "id": "FzDCHZpM3BxJ4cdBl7Do",
+      "name": "巴馬臣芝士粉 (灑樽)",
+      "duration": 24,
+      "isEOD": true,
+      "temp": "",
+      "category": "配料",
+      "order": 18,
+      "expDuration": 24,
+      "prodDuration": 0
+    },
+    {
+      "id": "G5wKROzUFDqIOZZ7mQwb",
+      "name": "棉花糖 (不銹鋼煲)",
+      "duration": 1,
+      "isEOD": true,
+      "temp": "",
+      "category": "配料",
+      "order": 8,
+      "expDuration": 1,
+      "prodDuration": 0
+    },
+    {
+      "id": "G9ZTpVcbdlZ5c6gw2lyV",
+      "name": "餅粉 (已開封)",
+      "duration": 12,
+      "isEOD": false,
+      "temp": "0-5°C",
+      "category": "原料",
+      "order": 1,
+      "expDuration": 12,
+      "prodDuration": 0
+    },
+    {
+      "id": "GOHpQO3XRm9qugeeG5uc",
+      "name": "推廣錫紙焗雞",
+      "duration": 1.5,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "特制",
+      "order": 13,
+      "expDuration": 1.5,
+      "prodDuration": 0
+    },
+    {
+      "id": "GnJp6ZBCFnwbd7U7saaX",
+      "name": "推廣雞",
+      "duration": 1,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "特制",
+      "order": 8,
+      "expDuration": 1,
+      "prodDuration": 0
+    },
+    {
+      "id": "HGyqKKHjyNrbQxiGf9rk",
+      "name": "推廣鬆餅",
+      "duration": 1,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "特制",
+      "order": 6,
+      "expDuration": 1,
+      "prodDuration": 0
+    },
+    {
+      "id": "HeebW3xL4V4mGcboqSMH",
+      "name": "綠茶包",
+      "duration": 720,
+      "isEOD": true,
+      "temp": "",
+      "category": "飲品",
+      "order": 14,
+      "expDuration": 720,
+      "prodDuration": 0
+    },
+    {
+      "id": "HzhJDjkdZrcHoQAQIaL8",
+      "name": "醬燒雞扒口袋卷",
+      "duration": 0.166,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "飽/卷（早）",
+      "order": 7,
+      "expDuration": 0.166,
+      "prodDuration": 0
+    },
+    {
+      "id": "I1UzM5nSKJFHACqzloTD",
+      "name": "植脂乳 (已開封)",
+      "duration": 48,
+      "isEOD": false,
+      "temp": "0-5°C",
+      "category": "奶製品",
+      "order": 4,
+      "expDuration": 48,
+      "prodDuration": 0
+    },
+    {
+      "id": "J0aRk6IAUQqxawDYmmXn",
+      "name": "全熟煎蛋",
+      "duration": 0.5,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "配料",
+      "order": 0,
+      "expDuration": 0.5,
+      "prodDuration": 0
+    },
+    {
+      "id": "J0k1pbnA2pxQMLRdYLGq",
+      "name": "香脆雞條",
+      "duration": 1,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "雞件",
+      "order": 8,
+      "expDuration": 1,
+      "prodDuration": 0
+    },
+    {
+      "id": "J0sn7Ei7hxhrAsV8Tw9V",
+      "name": "炒蛋 (未開封)",
+      "duration": 3,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "早餐",
+      "order": 3,
+      "expDuration": 3,
+      "prodDuration": 0
+    },
+    {
+      "id": "JJunaJu07OL6l3Tmucej",
+      "name": "粟米粒 (未組裝)",
+      "duration": 2,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "飯類/小食",
+      "order": 8,
+      "expDuration": 2,
+      "prodDuration": 0
+    },
+    {
+      "id": "JXFfxJjXj7EYcR3iFQdi",
+      "name": "飯底 (未包裝) - 保溫煲 (混合)",
+      "duration": 3,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "飯類/小食",
+      "order": 2,
+      "expDuration": 3,
+      "prodDuration": 0
+    },
+    {
+      "id": "JZ4yzSC6E4pAppGD2DcX",
+      "name": "預先組裝麵粉水",
+      "duration": 4,
+      "isEOD": false,
+      "temp": "",
+      "category": "原料",
+      "order": 5,
+      "expDuration": 4,
+      "prodDuration": 0
+    },
+    {
+      "name": "火腿 (溶解及未開封) [重疊]",
+      "prodDuration": 24,
+      "expDuration": 336,
+      "category": "早餐（溶解及未開封）",
+      "temp": "",
+      "isEOD": false,
+      "id": "JurRVZT00UsQDPCgtfZJ",
+      "order": 1
+    },
+    {
+      "id": "KKzUH1Jm8wgwoEhNtUPo",
+      "name": "熱奶茶底",
+      "duration": 1,
+      "isEOD": false,
+      "temp": "",
+      "category": "飲品",
+      "order": 0,
+      "expDuration": 1,
+      "prodDuration": 0
+    },
+    {
+      "id": "KNxprwUjaHSL0LQlWzxg",
+      "name": "酸青瓜片 (非原袋)",
+      "duration": 1,
+      "isEOD": true,
+      "temp": "0-5°C",
+      "category": "蔬果類",
+      "order": 5,
+      "expDuration": 1,
+      "prodDuration": 0
+    },
+    {
+      "id": "LKGwXjRGWJM9FwPBDdDn",
+      "name": "超勁·辣漢堡醬 (入樽)",
+      "duration": 1,
+      "isEOD": true,
+      "temp": "",
+      "category": "醬汁",
+      "order": 7,
+      "expDuration": 1,
+      "prodDuration": 0
+    },
+    {
+      "id": "LKl1z93saJP7DJ7o2Bf6",
+      "name": "香辣脆雞",
+      "duration": 1.5,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "雞件",
+      "order": 1,
+      "expDuration": 1.5,
+      "prodDuration": 0
+    },
+    {
+      "id": "MSSbxYK78hSfXW3M3Gqe",
+      "name": "消毒水 12小時",
+      "duration": 12,
+      "isEOD": false,
+      "temp": "N/A",
+      "category": "常用",
+      "order": 2,
+      "expDuration": 12,
+      "prodDuration": 0
+    },
+    {
+      "name": "加糖雞蛋液 (溶解及未開封)",
+      "prodDuration": 8,
+      "expDuration": 48,
+      "category": "廚房雪櫃",
+      "temp": "0-5°C",
+      "isEOD": false,
+      "id": "Ml6JhwlqF8Vr0henEver",
+      "order": 2
+    },
+    {
+      "id": "NQryjDJ72vy96PcKs7Bb",
+      "name": "家鄉雞扒粒",
+      "duration": 0.5,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "早餐",
+      "order": 7,
+      "expDuration": 0.5,
+      "prodDuration": 0
+    },
+    {
+      "name": "檸檬片",
+      "prodDuration": 4,
+      "expDuration": 16,
+      "category": "蔬果類",
+      "temp": "0-5°C",
+      "isEOD": false,
+      "id": "NWnPliLGe58zte5pO6qD",
+      "order": 6
+    },
+    {
+      "id": "NgdI4vZVWn2BcyohAYzd",
+      "name": "檸檬片 (冰鎮)",
+      "duration": 4,
+      "isEOD": false,
+      "temp": "0-5°C",
+      "category": "蔬果類",
+      "order": 7,
+      "expDuration": 4,
+      "prodDuration": 0
+    },
+    {
+      "id": "OTDHrH2RRLDqpOFd9b2Q",
+      "name": "雞絲 (室溫)",
+      "duration": 2,
+      "isEOD": false,
+      "temp": "",
+      "category": "配料",
+      "order": 5,
+      "expDuration": 2,
+      "prodDuration": 0
+    },
+    {
+      "id": "OTXCzYwuDNBu6cO9IjEI",
+      "name": "沙律醬 (原袋入槍)",
+      "duration": 24,
+      "isEOD": false,
+      "temp": "",
+      "category": "醬汁",
+      "order": 2,
+      "expDuration": 24,
+      "prodDuration": 0
+    },
+    {
+      "id": "Oaij2GYke5nkdQQMuo7U",
+      "name": "植脂乳 (不銹鋼煲)",
+      "duration": 1,
+      "isEOD": true,
+      "temp": "0-5°C",
+      "category": "飲品",
+      "order": 10,
+      "expDuration": 1,
+      "prodDuration": 0
+    },
+    {
+      "id": "OgFKjAOr3f9JU6A7xhAQ",
+      "name": "巴辣雞腿包",
+      "duration": 0.166,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "飽/卷（常）",
+      "order": 0,
+      "expDuration": 0.166,
+      "prodDuration": 0
+    },
+    {
+      "id": "OnCprAYv74pNOCu29LrG",
+      "name": "推廣飲品配料 (原樽)",
+      "duration": 1440,
+      "isEOD": true,
+      "temp": "",
+      "category": "飲品",
+      "order": 18,
+      "expDuration": 1440,
+      "prodDuration": 0
+    },
+    {
+      "id": "PEt9KD7h0wZI5ZDD7oZi",
+      "name": "推廣包醬 (原包)",
+      "duration": 720,
+      "isEOD": true,
+      "temp": "",
+      "category": "醬汁",
+      "order": 10,
+      "expDuration": 720,
+      "prodDuration": 0
+    },
+    {
+      "name": "芝士火鍋芝士醬 (溶解)",
+      "prodDuration": 24,
+      "expDuration": 72,
+      "category": "醬汁",
+      "temp": "0-5°C",
+      "isEOD": false,
+      "id": "PN0WaqFFQwWjEKgwCFZq",
+      "order": 17
+    },
+    {
+      "id": "PYBxoamrZHQaFAJFY3R9",
+      "name": "雞汁杯",
+      "duration": 2,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "特制",
+      "order": 7,
+      "expDuration": 2,
+      "prodDuration": 0
+    },
+    {
+      "id": "PlQfRMAstomlurnQyQ66",
+      "name": "雞汁粉",
+      "duration": 168,
+      "isEOD": true,
+      "temp": "",
+      "category": "原料",
+      "order": 2,
+      "expDuration": 168,
+      "prodDuration": 0
+    },
+    {
+      "id": "PmAW1cFIBS6LjM6FtSVt",
+      "name": "推廣扭扭粉湯 (保溫櫃)",
+      "duration": 4,
+      "isEOD": true,
+      "temp": "≥ 60°C",
+      "category": "早餐成品",
+      "order": 5,
+      "expDuration": 4,
+      "prodDuration": 0
+    },
+    {
+      "name": "餅皮 (溶解及未開封)",
+      "prodDuration": 12,
+      "expDuration": 168,
+      "category": "廚房雪櫃",
+      "temp": "0-5°C",
+      "isEOD": false,
+      "id": "Q33AWJctX5U8fyDVz30x",
+      "order": 4
+    },
+    {
+      "id": "QP7jdycyZ2wLabwkDlN9",
+      "name": "鬆餅餅漿 (已分配)",
+      "duration": 3,
+      "isEOD": false,
+      "temp": "0-5°C",
+      "category": "原料",
+      "order": 6,
+      "expDuration": 3,
+      "prodDuration": 0
+    },
+    {
+      "id": "QXWxV3msDOciZmJ5vVJg",
+      "name": "冷凍酥脆蔥油餅 (已開封)",
+      "duration": 720,
+      "isEOD": true,
+      "temp": "",
+      "category": "冷凍食品",
+      "order": 7,
+      "expDuration": 720,
+      "prodDuration": 0
+    },
+    {
+      "id": "Qa3q4IdUg4QdOQ0sorK9",
+      "name": "回溫 4小時",
+      "duration": 4,
+      "isEOD": false,
+      "temp": "N/A",
+      "category": "常用",
+      "order": 1,
+      "expDuration": 4,
+      "prodDuration": 0
+    },
+    {
+      "id": "RDCFNvJfADlOo3vP10Ca",
+      "name": "家鄉雞扒蛋意式包",
+      "duration": 0.166,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "飽/卷（早）",
+      "order": 3,
+      "expDuration": 0.166,
+      "prodDuration": 0
+    },
+    {
+      "id": "RIJpoPaq6Wdd05ozHnMB",
+      "name": "巴辣雞粒",
+      "duration": 0.5,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "飯類/小食",
+      "order": 14,
+      "expDuration": 0.5,
+      "prodDuration": 0
+    },
+    {
+      "id": "RbSTO2ie7flUqmA07Vij",
+      "name": "醬燒雞扒 (膠盒+蓋)",
+      "duration": 1,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "早餐",
+      "order": 10,
+      "expDuration": 1,
+      "prodDuration": 0
+    },
+    {
+      "id": "RdSjTdWy31SQsm3ozNPS",
+      "name": "炒蛋 (已開封)",
+      "duration": 1,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "早餐",
+      "order": 4,
+      "expDuration": 1,
+      "prodDuration": 0
+    },
+    {
+      "id": "S43L5Y3vkHZUUBnV5lb5",
+      "name": "冷凍巴辣雞粒 (已開封)",
+      "duration": 720,
+      "isEOD": true,
+      "temp": "",
+      "category": "冷凍食品",
+      "order": 5,
+      "expDuration": 720,
+      "prodDuration": 0
+    },
+    {
+      "id": "S6ZpaZfVd7SC9tCS6m9f",
+      "name": "酥脆蔥油餅",
+      "duration": 0.5,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "特制",
+      "order": 5,
+      "expDuration": 0.5,
+      "prodDuration": 0
+    },
+    {
+      "id": "SHtY2OBP4moF1AIraBQX",
+      "name": "已開咖啡豆",
+      "duration": 48,
+      "isEOD": true,
+      "temp": "",
+      "category": "飲品",
+      "order": 12,
+      "expDuration": 48,
+      "prodDuration": 0
+    },
+    {
+      "name": "已隔水蘑菇片 (冷藏儲存)",
+      "prodDuration": 4,
+      "expDuration": 24,
+      "category": "蔬果類",
+      "temp": "0-5°C",
+      "isEOD": false,
+      "id": "SMYBew0LdHmP2xeY3YbH",
+      "order": 9
+    },
+    {
+      "id": "SUNtYE6ChjmjGKvCxxPo",
+      "name": "植脂乳 (原盒)",
+      "duration": 48,
+      "isEOD": true,
+      "temp": "0-5°C",
+      "category": "飲品",
+      "order": 8,
+      "expDuration": 48,
+      "prodDuration": 0
+    },
+    {
+      "id": "SaoCDpmCT6MoQfVEMtG2",
+      "name": "紫洋蔥條 (非原袋)",
+      "duration": 1,
+      "isEOD": true,
+      "temp": "0-5°C",
+      "category": "蔬果類",
+      "order": 3,
+      "expDuration": 1,
+      "prodDuration": 0
+    },
+    {
+      "name": "香腸 (溶解及未開封) [單層]",
+      "prodDuration": 12,
+      "expDuration": 336,
+      "category": "早餐（溶解及未開封）",
+      "temp": "",
+      "isEOD": false,
+      "id": "TAvHM07xorpxkqi6YBEm",
+      "order": 2
+    },
+    {
+      "id": "TZQbVVzdji0EpSLrR1HP",
+      "name": "朱古力片 (已開封)",
+      "duration": 168,
+      "isEOD": true,
+      "temp": "",
+      "category": "原料",
+      "order": 9,
+      "expDuration": 168,
+      "prodDuration": 0
+    },
+    {
+      "id": "Tabb9MyH619SZ5DRACWW",
+      "name": "冷凍薯餅 (已開封)",
+      "duration": 720,
+      "isEOD": true,
+      "temp": "",
+      "category": "冷凍食品",
+      "order": 2,
+      "expDuration": 720,
+      "prodDuration": 0
+    },
+    {
+      "id": "UemTdznFsBwyjykpFkK4",
+      "name": "芝士撇粉 (灑樽)",
+      "duration": 24,
+      "isEOD": true,
+      "temp": "",
+      "category": "配料",
+      "order": 11,
+      "expDuration": 24,
+      "prodDuration": 0
+    },
+    {
+      "id": "WNGCJJvQQlhLNk3bNSQM",
+      "name": "芝士片 (原袋)",
+      "duration": 168,
+      "isEOD": false,
+      "temp": "0-5°C",
+      "category": "奶製品",
+      "order": 2,
+      "expDuration": 168,
+      "prodDuration": 0
+    },
+    {
+      "id": "WwfeRXo4L6N7a6mqt5Ol",
+      "name": "蘑菇汁 (保溫煲)",
+      "duration": 2,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "飯類/小食",
+      "order": 5,
+      "expDuration": 2,
+      "prodDuration": 0
+    },
+    {
+      "name": "葡撻蛋漿 (冷藏儲存)",
+      "prodDuration": 4,
+      "expDuration": 0,
+      "category": "廚房雪櫃",
+      "temp": "0-5°C",
+      "isEOD": true,
+      "id": "XXODu7K9IwIArBlJ4BYU",
+      "order": 3
+    },
+    {
+      "id": "XfvrlV2uin7BF085n4BQ",
+      "name": "醬燒雞扒 (餅盤)",
+      "duration": 0.25,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "早餐",
+      "order": 1,
+      "expDuration": 0.25,
+      "prodDuration": 0
+    },
+    {
+      "id": "XmsYEMiDZabVV3OebZi2",
+      "name": "UHT 忌廉",
+      "duration": 48,
+      "isEOD": false,
+      "temp": "0-5°C",
+      "category": "奶製品",
+      "order": 1,
+      "expDuration": 48,
+      "prodDuration": 0
+    },
+    {
+      "id": "Y3KXoP91ii26jzkENE7f",
+      "name": "推廣雞類 (已撇粉)",
+      "duration": 0.5,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "特制",
+      "order": 10,
+      "expDuration": 0.5,
+      "prodDuration": 0
+    },
+    {
+      "id": "YIcOoxXwTYFBnG4lwKIK",
+      "name": "凍檸茶底 (冷藏)",
+      "duration": 1,
+      "isEOD": true,
+      "temp": "0-5°C",
+      "category": "飲品",
+      "order": 5,
+      "expDuration": 1,
+      "prodDuration": 0
+    },
+    {
+      "id": "YaNMYnEx4PjerhyBXBDm",
+      "name": "推廣飲品糖漿 (原樽)",
+      "duration": 720,
+      "isEOD": true,
+      "temp": "",
+      "category": "飲品",
+      "order": 21,
+      "expDuration": 720,
+      "prodDuration": 0
+    },
+    {
+      "id": "YdfNzR2SgZD8ZS2dWRik",
+      "name": "粟米粒 (室溫)",
+      "duration": 4,
+      "isEOD": false,
+      "temp": "",
+      "category": "配料",
+      "order": 4,
+      "expDuration": 4,
+      "prodDuration": 0
+    },
+    {
+      "id": "YeTexVNmnSGJe6Nwnvnr",
+      "name": "炸乾蔥 (不銹鋼煲)",
+      "duration": 1,
+      "isEOD": true,
+      "temp": "",
+      "category": "配料",
+      "order": 2,
+      "expDuration": 1,
+      "prodDuration": 0
+    },
+    {
+      "id": "YmbvmP5ak2fBdA4O89yX",
+      "name": "推廣飲品配料 (原包)",
+      "duration": 48,
+      "isEOD": false,
+      "temp": "",
+      "category": "飲品",
+      "order": 17,
+      "expDuration": 48,
+      "prodDuration": 0
+    },
+    {
+      "id": "ZHghm36tZOYgJyjVVYEA",
+      "name": "上校雞包",
+      "duration": 0.166,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "飽/卷（常）",
+      "order": 1,
+      "expDuration": 0.166,
+      "prodDuration": 0
+    },
+    {
+      "id": "Zq4PH8rSLc58kbJ9pmJr",
+      "name": "油條",
+      "duration": 0.5,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "早餐成品",
+      "order": 13,
+      "expDuration": 0.5,
+      "prodDuration": 0
+    },
+    {
+      "id": "ZzveSN5MtjC8KptHjsSJ",
+      "name": "已組裝雞卷",
+      "duration": 0.25,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "飽/卷（常）",
+      "order": 2,
+      "expDuration": 0.25,
+      "prodDuration": 0
+    },
+    {
+      "name": "菠蘿片/粒 (冷藏儲存)",
+      "prodDuration": 4,
+      "expDuration": 48,
+      "category": "蔬果類",
+      "temp": "0-5°C",
+      "isEOD": false,
+      "id": "a03OhHmnqXVAK6J9BtKD",
+      "order": 10
+    },
+    {
+      "id": "ao9GJ3B896vVpqugopCy",
+      "name": "香腸 (已溶解及開封)",
+      "duration": 24,
+      "isEOD": false,
+      "temp": "0-5°C",
+      "category": "原料",
+      "order": 10,
+      "expDuration": 24,
+      "prodDuration": 0
+    },
+    {
+      "id": "ao9yqprmsaI6R0yrh1nu",
+      "name": "蘑菇飯 (已組裝)",
+      "duration": 0.166,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "飯類/小食",
+      "order": 18,
+      "expDuration": 0.166,
+      "prodDuration": 0
+    },
+    {
+      "id": "bL8CPJG8M2QKhLFvO1Ih",
+      "name": "家鄉雞扒包",
+      "duration": 0.166,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "飽/卷（早）",
+      "order": 6,
+      "expDuration": 0.166,
+      "prodDuration": 0
+    },
+    {
+      "id": "bSI6ELWrR5KWgN81lXI1",
+      "name": "飯底 (未包裝) - 直立保溫櫃",
+      "duration": 3,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "飯類/小食",
+      "order": 1,
+      "expDuration": 3,
+      "prodDuration": 0
+    },
+    {
+      "id": "bVnP5gG60UFOMV9YUaSO",
+      "name": "朱古力 (原包)",
+      "duration": 720,
+      "isEOD": true,
+      "temp": "0-5°C",
+      "category": "原料",
+      "order": 7,
+      "expDuration": 720,
+      "prodDuration": 0
+    },
+    {
+      "name": "預先組裝芝心火腿脆卷",
+      "prodDuration": 4,
+      "expDuration": 48,
+      "category": "廚房雪櫃",
+      "temp": "0-5°C",
+      "isEOD": false,
+      "id": "beMp3ddArowqJTLPejPb",
+      "order": 5
+    },
+    {
+      "id": "br87ggBVGrwGjwOTlGse",
+      "name": "芝士雞肉蛋意式包",
+      "duration": 0.166,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "飽/卷（早）",
+      "order": 4,
+      "expDuration": 0.166,
+      "prodDuration": 0
+    },
+    {
+      "name": "白粥（保溫櫃）",
+      "prodDuration": 0,
+      "expDuration": 4,
+      "category": "早餐成品",
+      "temp": "≥ 60°C",
+      "isEOD": true,
+      "id": "brKhiUHWErHG6UEjq3sR",
+      "order": 2
+    },
+    {
+      "name": "淡奶（不銹鋼煲）",
+      "prodDuration": 0,
+      "expDuration": 4,
+      "category": "飲品",
+      "temp": "",
+      "isEOD": false,
+      "id": "bsHTaXm03alsM8X2wzpZ",
+      "order": 3
+    },
+    {
+      "id": "c5WHXvqT4Yb0adUe0LoE",
+      "name": "薯蓉粉",
+      "duration": 168,
+      "isEOD": true,
+      "temp": "",
+      "category": "原料",
+      "order": 3,
+      "expDuration": 168,
+      "prodDuration": 0
+    },
+    {
+      "id": "cF7dLAGpZuAq6RIx7zdm",
+      "name": "飯底 (未包裝) - 保溫煲 (新)",
+      "duration": 4,
+      "isEOD": true,
+      "temp": "≥ 60°C",
+      "category": "飯類/小食",
+      "order": 0,
+      "expDuration": 4,
+      "prodDuration": 0
+    },
+    {
+      "name": "白粥（保溫煲）",
+      "prodDuration": 0,
+      "expDuration": 2,
+      "category": "早餐成品",
+      "temp": "≥ 60°C",
+      "isEOD": false,
+      "id": "cRZa2Ttwuru8xVmsRrxy",
+      "order": 3
+    },
+    {
+      "name": "意式包 (獨立包裝溶解)",
+      "prodDuration": 3,
+      "expDuration": 48,
+      "category": "廚房雪櫃",
+      "temp": "0-5°C",
+      "isEOD": false,
+      "id": "dKiuE75CnLbYjSpp2MTP",
+      "order": 7
+    },
+    {
+      "id": "daj0IH0CNVgSx96jJHAW",
+      "name": "凍檸茶底 (室溫)",
+      "duration": 6,
+      "isEOD": false,
+      "temp": "",
+      "category": "飲品",
+      "order": 4,
+      "expDuration": 6,
+      "prodDuration": 0
+    },
+    {
+      "id": "dlZsuaUoBH47pzWhk0nT",
+      "name": "醬燒雞扒蛋意式包",
+      "duration": 0.166,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "飽/卷（早）",
+      "order": 9,
+      "expDuration": 0.166,
+      "prodDuration": 0
+    },
+    {
+      "id": "duh2RtQ8py3aTUVMEHWW",
+      "name": "冷凍葡撻皮 (已開封)",
+      "duration": 24,
+      "isEOD": false,
+      "temp": "",
+      "category": "冷凍食品",
+      "order": 0,
+      "expDuration": 24,
+      "prodDuration": 0
+    },
+    {
+      "name": "鬆甜包 (原袋溶解)",
+      "prodDuration": 4,
+      "expDuration": 48,
+      "category": "廚房雪櫃",
+      "temp": "0-5°C",
+      "isEOD": false,
+      "id": "eUn9J8nsAOZclBWjov7L",
+      "order": 10
+    },
+    {
+      "id": "fR7n6uxsoqE6so9re514",
+      "name": "芝士雞肉意式包",
+      "duration": 0.166,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "飽/卷（早）",
+      "order": 10,
+      "expDuration": 0.166,
+      "prodDuration": 0
+    },
+    {
+      "id": "fjzcs9UZtqnhl3uOG5G2",
+      "name": "棉花糖 (原袋)",
+      "duration": 168,
+      "isEOD": true,
+      "temp": "",
+      "category": "配料",
+      "order": 7,
+      "expDuration": 168,
+      "prodDuration": 0
+    },
+    {
+      "id": "g5dnEAUDz8RpnDC6neoO",
+      "name": "推廣葡撻 (已組裝)",
+      "duration": 0.166,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "特制",
+      "order": 3,
+      "expDuration": 0.166,
+      "prodDuration": 0
+    },
+    {
+      "id": "gYoQJoRTBxlBWtCkJLps",
+      "name": "馬鈴薯蓉 (已組裝)",
+      "duration": 3,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "飯類/小食",
+      "order": 11,
+      "expDuration": 3,
+      "prodDuration": 0
+    },
+    {
+      "id": "gZrFobgxDwrDpxfCfiRz",
+      "name": "消毒水 4小時",
+      "duration": 4,
+      "isEOD": false,
+      "temp": "N/A",
+      "category": "常用",
+      "order": 3,
+      "expDuration": 4,
+      "prodDuration": 0
+    },
+    {
+      "id": "gcESftc8yTfIRs4rGxuV",
+      "name": "芝心火腿脆卷 (已包裝)",
+      "duration": 0.333,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "飽/卷（早）",
+      "order": 11,
+      "expDuration": 0.333,
+      "prodDuration": 0
+    },
+    {
+      "id": "hT4QzeqwCbR3uj5Iwl3c",
+      "name": "豆漿",
+      "duration": 48,
+      "isEOD": false,
+      "temp": "0-5°C",
+      "category": "飲品",
+      "order": 15,
+      "expDuration": 48,
+      "prodDuration": 0
+    },
+    {
+      "name": "蕃茄片",
+      "prodDuration": 4,
+      "expDuration": 16,
+      "category": "蔬果類",
+      "temp": "0-5°C",
+      "isEOD": false,
+      "id": "haZEJjHgeYfRiV2bDEl1",
+      "order": 1
+    },
+    {
+      "id": "hfwQt8BL5gSZ1MX4dBEU",
+      "name": "雞汁杯",
+      "duration": 2,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "飯類/小食",
+      "order": 17,
+      "expDuration": 2,
+      "prodDuration": 0
+    },
+    {
+      "id": "i7wlxh4dv3l4GZyUJUff",
+      "name": "可可粉 (原盒)",
+      "duration": 1440,
+      "isEOD": true,
+      "temp": "",
+      "category": "配料",
+      "order": 9,
+      "expDuration": 1440,
+      "prodDuration": 0
+    },
+    {
+      "id": "i96sG9OhVr6CWxKo1f3J",
+      "name": "香腸",
+      "duration": 0.5,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "早餐",
+      "order": 11,
+      "expDuration": 0.5,
+      "prodDuration": 0
+    },
+    {
+      "id": "iMB1XhdfWj5fOB36klw0",
+      "name": "白飯錫紙兜",
+      "duration": 0.5,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "特制",
+      "order": 4,
+      "expDuration": 0.5,
+      "prodDuration": 0
+    },
+    {
+      "id": "iUaIsEqHeOBl5VkSSjfC",
+      "name": "家鄉雞腿包",
+      "duration": 0.166,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "飽/卷（常）",
+      "order": 4,
+      "expDuration": 0.166,
+      "prodDuration": 0
+    },
+    {
+      "id": "iXUWsZExUTFiphqyxwjf",
+      "name": "已組裝三色芝士碎",
+      "duration": 48,
+      "isEOD": false,
+      "temp": "0-5°C",
+      "category": "奶製品",
+      "order": 7,
+      "expDuration": 48,
+      "prodDuration": 0
+    },
+    {
+      "name": "未焗推廣錫紙雞 (預先組裝)",
+      "prodDuration": 4,
+      "expDuration": 16,
+      "category": "早餐（溶解及未開封）",
+      "temp": "0-5°C",
+      "isEOD": false,
+      "id": "ioShl4ZIqy8Nm2CPBmDG",
+      "order": 5
+    },
+    {
+      "id": "ip3GQ6bfX8Wpk6Wl7M1o",
+      "name": "冷凍油條 (已開封)",
+      "duration": 720,
+      "isEOD": true,
+      "temp": "",
+      "category": "冷凍食品",
+      "order": 8,
+      "expDuration": 720,
+      "prodDuration": 0
+    },
+    {
+      "id": "jhzaOcN2BSMt0i6LsnHK",
+      "name": "意式香草碎 (噴粉膠樽)",
+      "duration": 720,
+      "isEOD": true,
+      "temp": "",
+      "category": "配料",
+      "order": 20,
+      "expDuration": 720,
+      "prodDuration": 0
+    },
+    {
+      "id": "ji4H29DEPdtiYgejdjz1",
+      "name": "冷凍全熟煎蛋 (已開封)",
+      "duration": 720,
+      "isEOD": true,
+      "temp": "",
+      "category": "冷凍食品",
+      "order": 10,
+      "expDuration": 720,
+      "prodDuration": 0
+    },
+    {
+      "id": "k0zl9SRIMVUf8PJHHDXl",
+      "name": "推廣飲品配料 (不銹鋼煲)",
+      "duration": 72,
+      "isEOD": true,
+      "temp": "",
+      "category": "飲品",
+      "order": 20,
+      "expDuration": 72,
+      "prodDuration": 0
+    },
+    {
+      "name": "白粥（已組裝）",
+      "prodDuration": 0,
+      "expDuration": 1.5,
+      "category": "早餐成品",
+      "temp": "≥ 60°C",
+      "isEOD": false,
+      "id": "k5M4IrLIMUHqeSmFHeqq",
+      "order": 4
+    },
+    {
+      "id": "kAFlxTlqhhdGkTgKEZT3",
+      "name": "酸青瓜片 (原袋)",
+      "duration": 72,
+      "isEOD": false,
+      "temp": "0-5°C",
+      "category": "蔬果類",
+      "order": 4,
+      "expDuration": 72,
+      "prodDuration": 0
+    },
+    {
+      "id": "kD0HH4IMjbhNLGLa9OeU",
+      "name": "巴馬臣芝士粉 (原包)",
+      "duration": 168,
+      "isEOD": true,
+      "temp": "",
+      "category": "配料",
+      "order": 17,
+      "expDuration": 168,
+      "prodDuration": 0
+    },
+    {
+      "id": "lChgOnCcwnqkumj9VuK3",
+      "name": "糖霜 (糖霜樽)",
+      "duration": 72,
+      "isEOD": true,
+      "temp": "",
+      "category": "配料",
+      "order": 14,
+      "expDuration": 72,
+      "prodDuration": 0
+    },
+    {
+      "id": "lYmr83FqXxfw72lopRHK",
+      "name": "推廣燒雞",
+      "duration": 0.75,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "特制",
+      "order": 9,
+      "expDuration": 0.75,
+      "prodDuration": 0
+    },
+    {
+      "id": "m19ylw8qpavvpnL96h7T",
+      "name": "雞皇汁 (保溫櫃)",
+      "duration": 3,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "飯類/小食",
+      "order": 6,
+      "expDuration": 3,
+      "prodDuration": 0
+    },
+    {
+      "id": "m7KjnHaIP8DnBNmf2QBB",
+      "name": "豆漿 (已加熱)",
+      "duration": 1,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "飲品",
+      "order": 16,
+      "expDuration": 1,
+      "prodDuration": 0
+    },
+    {
+      "name": "粟米粒 (冷藏儲存)",
+      "prodDuration": 4,
+      "expDuration": 24,
+      "category": "蔬果類",
+      "temp": "0-5°C",
+      "isEOD": false,
+      "id": "mj3RgBJHPFHHxxIGrqjq",
+      "order": 11
+    },
+    {
+      "id": "mq4j5IpZtRCbh3iwoBB7",
+      "name": "未組裝湯 (直立保溫櫃)",
+      "duration": 3,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "湯類",
+      "order": 0,
+      "expDuration": 3,
+      "prodDuration": 0
+    },
+    {
+      "id": "msCJXnKoEzmDQkGIWikd",
+      "name": "雞皇飯 (已組裝)",
+      "duration": 0.166,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "飯類/小食",
+      "order": 19,
+      "expDuration": 0.166,
+      "prodDuration": 0
+    },
+    {
+      "id": "muCb64IEISOD33P0j1Hi",
+      "name": "香蜜鬆餅 (陳列櫃)",
+      "duration": 0.5,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "早餐成品",
+      "order": 12,
+      "expDuration": 0.5,
+      "prodDuration": 0
+    },
+    {
+      "id": "nGbMgRXMGGrvGgwXkmfi",
+      "name": "木魚碎 (不銹鋼煲)",
+      "duration": 48,
+      "isEOD": true,
+      "temp": "",
+      "category": "配料",
+      "order": 16,
+      "expDuration": 48,
+      "prodDuration": 0
+    },
+    {
+      "name": "火腿 (溶解及未開封) [單層]",
+      "prodDuration": 12,
+      "expDuration": 336,
+      "category": "早餐（溶解及未開封）",
+      "temp": "",
+      "isEOD": false,
+      "id": "nUPNp0bKPMkpm8vqqDyQ",
+      "order": 0
+    },
+    {
+      "name": "植脂乳 (溶解及未開封)",
+      "prodDuration": 24,
+      "expDuration": 120,
+      "category": "飲品",
+      "temp": "0-5°C",
+      "isEOD": false,
+      "id": "nchrlWBu1y9QW52ZzVPH",
+      "order": 9
+    },
+    {
+      "id": "nellYFoVpOOg0bq8MENw",
+      "name": "蜜糖 (不銹鋼煲/樽)",
+      "duration": 1,
+      "isEOD": true,
+      "temp": "",
+      "category": "醬汁",
+      "order": 1,
+      "expDuration": 1,
+      "prodDuration": 0
+    },
+    {
+      "id": "nw8X26FHK6OXJctCYqBx",
+      "name": "狂惹香燒雞",
+      "duration": 1,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "雞件",
+      "order": 2,
+      "expDuration": 1,
+      "prodDuration": 0
+    },
+    {
+      "id": "o0uMIfLUsuNKw1tBaJMw",
+      "name": "推廣雞類 (已印醬)",
+      "duration": 0.5,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "特制",
+      "order": 11,
+      "expDuration": 0.5,
+      "prodDuration": 0
+    },
+    {
+      "name": "鬆餅餅漿 (冷藏儲存)",
+      "prodDuration": 4,
+      "expDuration": 12,
+      "category": "廚房雪櫃",
+      "temp": "0-5°C",
+      "isEOD": false,
+      "id": "oM79OsTAup92Z5xo9Q7n",
+      "order": 0
+    },
+    {
+      "id": "opD7XV8C4AjnNMdKjSnk",
+      "name": "可可粉 (不銹鋼帶孔樽)",
+      "duration": 24,
+      "isEOD": true,
+      "temp": "",
+      "category": "配料",
+      "order": 10,
+      "expDuration": 24,
+      "prodDuration": 0
+    },
+    {
+      "id": "pGGlCMpUXntQKl0DuQeK",
+      "name": "凍奶茶底 (冷藏)",
+      "duration": 1,
+      "isEOD": true,
+      "temp": "0-5°C",
+      "category": "飲品",
+      "order": 2,
+      "expDuration": 1,
+      "prodDuration": 0
+    },
+    {
+      "id": "pHSjD9XscXyRKWWnX4Bu",
+      "name": "白米 (專用膠箱)",
+      "duration": 720,
+      "isEOD": true,
+      "temp": "",
+      "category": "原料",
+      "order": 0,
+      "expDuration": 720,
+      "prodDuration": 0
+    },
+    {
+      "id": "pKGFvGkDZJNZFFhUcSBl",
+      "name": "推廣包醬 (原袋入槍)",
+      "duration": 24,
+      "isEOD": false,
+      "temp": "",
+      "category": "醬汁",
+      "order": 14,
+      "expDuration": 24,
+      "prodDuration": 0
+    },
+    {
+      "id": "pNm8leX5T4sztMYSfahz",
+      "name": "雞汁 (保溫櫃)",
+      "duration": 4,
+      "isEOD": true,
+      "temp": "≥ 60°C",
+      "category": "早餐",
+      "order": 5,
+      "expDuration": 4,
+      "prodDuration": 0
+    },
+    {
+      "id": "pUb1N1sjNqfBcNqVhnGM",
+      "name": "冷凍雞肉餅 (已開封)",
+      "duration": 720,
+      "isEOD": true,
+      "temp": "",
+      "category": "冷凍食品",
+      "order": 9,
+      "expDuration": 720,
+      "prodDuration": 0
+    },
+    {
+      "id": "pX6OAsoPMy5z7JD4lQPD",
+      "name": "芝士片 (非原袋)",
+      "duration": 1,
+      "isEOD": true,
+      "temp": "0-5°C",
+      "category": "奶製品",
+      "order": 5,
+      "expDuration": 1,
+      "prodDuration": 0
+    },
+    {
+      "id": "pkztq07p0qihNs17g7mw",
+      "name": "蒜蓉牛油醬 (已組裝)",
+      "duration": 1,
+      "isEOD": true,
+      "temp": "",
+      "category": "醬汁",
+      "order": 15,
+      "expDuration": 1,
+      "prodDuration": 0
+    },
+    {
+      "id": "pnDdSghDqegVIz5q7Lo2",
+      "name": "推廣茶底",
+      "duration": 1,
+      "isEOD": true,
+      "temp": "",
+      "category": "飲品",
+      "order": 23,
+      "expDuration": 1,
+      "prodDuration": 0
+    },
+    {
+      "id": "q2IvOwuE0QfDpSm8R4pB",
+      "name": "已組裝湯",
+      "duration": 1,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "湯類",
+      "order": 2,
+      "expDuration": 1,
+      "prodDuration": 0
+    },
+    {
+      "id": "q7hkpLoaZQiJkIzzWpX8",
+      "name": "已加熱通粉 (不銹鋼煲)",
+      "duration": 1,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "早餐成品",
+      "order": 7,
+      "expDuration": 1,
+      "prodDuration": 0
+    },
+    {
+      "id": "q7l6zsBUPppK3dxZjSOz",
+      "name": "10寸薄餅保溫櫃",
+      "duration": 5,
+      "isEOD": true,
+      "temp": "≥ 60°C",
+      "category": "飽/卷（常）",
+      "order": 6,
+      "expDuration": 5,
+      "prodDuration": 0
+    },
+    {
+      "name": "生菜片",
+      "prodDuration": 4,
+      "expDuration": 0,
+      "category": "蔬果類",
+      "temp": "0-5°C",
+      "isEOD": true,
+      "id": "qSdLqIHOzuiYP0dCeIdj",
+      "order": 0
+    },
+    {
+      "id": "qdIjSoz3MxVbi6rKVqsC",
+      "name": "雞汁 (保溫櫃)",
+      "duration": 4,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "飯類/小食",
+      "order": 15,
+      "expDuration": 4,
+      "prodDuration": 0
+    },
+    {
+      "id": "qdqAYkVNJONkklez2Xlh",
+      "name": "冷凍通粉 (已開封)",
+      "duration": 24,
+      "isEOD": false,
+      "temp": "",
+      "category": "冷凍食品",
+      "order": 6,
+      "expDuration": 24,
+      "prodDuration": 0
+    },
+    {
+      "name": "意式包 (拆袋溶解)",
+      "prodDuration": 3,
+      "expDuration": 24,
+      "category": "廚房雪櫃",
+      "temp": "0-5°C",
+      "isEOD": false,
+      "id": "rFzAEyxEnXghIVLVY2pW",
+      "order": 8
+    },
+    {
+      "id": "rLanBOP3yvLTMT5kb3rQ",
+      "name": "雞肉餅",
+      "duration": 0.5,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "早餐",
+      "order": 12,
+      "expDuration": 0.5,
+      "prodDuration": 0
+    },
+    {
+      "id": "rfDoGAoEhj3BERDgB8Vh",
+      "name": "凍咖啡底 (室溫)",
+      "duration": 3,
+      "isEOD": false,
+      "temp": "",
+      "category": "飲品",
+      "order": 6,
+      "expDuration": 3,
+      "prodDuration": 0
+    },
+    {
+      "id": "s1qjn5qX14uuCUdNcCWp",
+      "name": "推廣茶包",
+      "duration": 720,
+      "isEOD": true,
+      "temp": "",
+      "category": "飲品",
+      "order": 22,
+      "expDuration": 720,
+      "prodDuration": 0
+    },
+    {
+      "id": "sBjzFjur7rD1jxbwTJP9",
+      "name": "餅皮 (已溶解及開封)",
+      "duration": 48,
+      "isEOD": false,
+      "temp": "0-5°C",
+      "category": "原料",
+      "order": 12,
+      "expDuration": 48,
+      "prodDuration": 0
+    },
+    {
+      "id": "sMOhPeidNMIwZhnWFo8l",
+      "name": "薄餅微波爐解凍後",
+      "duration": 2,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "飽/卷（常）",
+      "order": 7,
+      "expDuration": 2,
+      "prodDuration": 0
+    },
+    {
+      "id": "sbfNrCHpJla8HnTRF3jv",
+      "name": "巴辣香雞翼",
+      "duration": 1,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "雞件",
+      "order": 3,
+      "expDuration": 1,
+      "prodDuration": 0
+    },
+    {
+      "id": "sgwH6SqOzYUlQUw3G3EL",
+      "name": "馬鈴薯蓉 (未組裝)",
+      "duration": 4,
+      "isEOD": true,
+      "temp": "≥ 60°C",
+      "category": "飯類/小食",
+      "order": 10,
+      "expDuration": 4,
+      "prodDuration": 0
+    },
+    {
+      "id": "tYgYXElAbyIChaQdousV",
+      "name": "鬆甜包 (已溶解及已開封)",
+      "duration": 24,
+      "isEOD": false,
+      "temp": "",
+      "category": "原料",
+      "order": 13,
+      "expDuration": 24,
+      "prodDuration": 0
+    },
+    {
+      "id": "tZW65Rmveqo9LhdGi9Pf",
+      "name": "鹹蛋黃金雞腿包",
+      "duration": 0.166,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "飽/卷（常）",
+      "order": 5,
+      "expDuration": 0.166,
+      "prodDuration": 0
+    },
+    {
+      "id": "to0hTuEtUpJQPjMbdt8o",
+      "name": "雙層巴辣雞腿包",
+      "duration": 0.166,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "飽/卷（常）",
+      "order": 3,
+      "expDuration": 0.166,
+      "prodDuration": 0
+    },
+    {
+      "id": "twbonuEMfQcqrB3vGRYv",
+      "name": "推廣飯汁 (直立保溫櫃)",
+      "duration": 3,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "特制",
+      "order": 0,
+      "expDuration": 3,
+      "prodDuration": 0
+    },
+    {
+      "id": "u4RVIQoufPuLvmYxosi2",
+      "name": "未組裝湯 (保溫煲)",
+      "duration": 1.5,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "湯類",
+      "order": 1,
+      "expDuration": 1.5,
+      "prodDuration": 0
+    },
+    {
+      "name": "推廣飲品配料 (冷藏儲存)",
+      "prodDuration": 4,
+      "expDuration": 72,
+      "category": "飲品",
+      "temp": "0-5°C",
+      "isEOD": true,
+      "id": "u72x7tuSJj8CtyvpGEC7",
+      "order": 19
+    },
+    {
+      "id": "vEf6qItMj41eKbfxaTn3",
+      "name": "格格脆薯塊",
+      "duration": 0.166,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "飯類/小食",
+      "order": 13,
+      "expDuration": 0.166,
+      "prodDuration": 0
+    },
+    {
+      "name": "史雲生雞汁",
+      "prodDuration": 0,
+      "expDuration": 720,
+      "category": "醬汁",
+      "temp": "",
+      "isEOD": true,
+      "id": "vhTxlYxhlb0XLao4ftmJ",
+      "order": 13
+    },
+    {
+      "id": "wODcXm8JiQTdo6kgGwKF",
+      "name": "沙律醬 (唧樽)",
+      "duration": 24,
+      "isEOD": true,
+      "temp": "",
+      "category": "醬汁",
+      "order": 3,
+      "expDuration": 24,
+      "prodDuration": 0
+    },
+    {
+      "id": "wT3Q1m5GGi9lVk22xtNT",
+      "name": "急凍推廣葡撻餡 (已開封)",
+      "duration": 720,
+      "isEOD": true,
+      "temp": "",
+      "category": "冷凍食品",
+      "order": 1,
+      "expDuration": 720,
+      "prodDuration": 0
+    },
+    {
+      "id": "xEFJMsGzHeZC2gHTAwSF",
+      "name": "家鄉雞扒",
+      "duration": 1,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "雞件",
+      "order": 5,
+      "expDuration": 1,
+      "prodDuration": 0
+    },
+    {
+      "id": "ynUBkq4UqzTOHWE3gV5k",
+      "name": "三色芝士碎 (原袋)",
+      "duration": 48,
+      "isEOD": true,
+      "temp": "0-5°C",
+      "category": "奶製品",
+      "order": 6,
+      "expDuration": 48,
+      "prodDuration": 0
+    },
+    {
+      "id": "yulOMp9eZiRbQ8gCKnhL",
+      "name": "已加熱通粉 (已組裝)",
+      "duration": 0.5,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "早餐成品",
+      "order": 8,
+      "expDuration": 0.5,
+      "prodDuration": 0
+    },
+    {
+      "id": "yxxGlzbxOF4Wis2y5BdV",
+      "name": "推廣雞撒粉 (原袋)",
+      "duration": 168,
+      "isEOD": true,
+      "temp": "",
+      "category": "配料",
+      "order": 12,
+      "expDuration": 168,
+      "prodDuration": 0
+    },
+    {
+      "id": "z7s4o60BF6BBTD9i8K50",
+      "name": "粟米粒 (已組裝)",
+      "duration": 1,
+      "isEOD": false,
+      "temp": "≥ 60°C",
+      "category": "飯類/小食",
+      "order": 9,
+      "expDuration": 1,
+      "prodDuration": 0
+    },
+    {
+      "id": "zNzilRmR3tDHs21k6gmp",
+      "name": "火腿 (已溶解及開封)",
+      "duration": 48,
+      "isEOD": false,
+      "temp": "0-5°C",
+      "category": "原料",
+      "order": 11,
+      "expDuration": 48,
+      "prodDuration": 0
+    },
+    {
+      "id": "zUoi98iT0YQYLtKxkhY4",
+      "name": "推廣撒粉 (灑樽)",
+      "duration": 24,
+      "isEOD": true,
+      "temp": "",
+      "category": "配料",
+      "order": 13,
+      "expDuration": 24,
+      "prodDuration": 0
+    }
+  ],
+  "pics": [
+    {
+      "name": "KIN LEUNG TONG",
+      "id": "58f72f13-8380-4e8e-8cab-76c4385b72f9"
+    },
+    {
+      "name": "YUK YEE WONG",
+      "id": "d240d27c-72a2-48ee-b653-6c72666d2c94"
+    },
+    {
+      "name": "KA HONG WONG",
+      "id": "f0bb3897-3498-42fa-8ff9-abf3c65360c0"
+    }
+  ],
+  "macros": [
+    {
+      "name": "Supply（飽位）",
+      "items": [
+        {
+          "itemId": "C5MoIPJc20h1mUh9ZXzq",
+          "qty": 1
+        },
+        {
+          "itemId": "KNxprwUjaHSL0LQlWzxg",
+          "qty": 1
+        },
+        {
+          "itemId": "LKGwXjRGWJM9FwPBDdDn",
+          "qty": 1
+        },
+        {
+          "itemId": "OTXCzYwuDNBu6cO9IjEI",
+          "qty": 1
+        },
+        {
+          "itemId": "SaoCDpmCT6MoQfVEMtG2",
+          "qty": 1
+        },
+        {
+          "itemId": "haZEJjHgeYfRiV2bDEl1",
+          "qty": 1
+        },
+        {
+          "itemId": "nellYFoVpOOg0bq8MENw",
+          "qty": 1
+        },
+        {
+          "itemId": "pX6OAsoPMy5z7JD4lQPD",
+          "qty": 1
+        },
+        {
+          "itemId": "qSdLqIHOzuiYP0dCeIdj",
+          "qty": 1
+        },
+        {
+          "itemId": "wODcXm8JiQTdo6kgGwKF",
+          "qty": 1
+        }
+      ],
+      "id": "145853a4-98d3-458e-872c-760ac4ce8887"
+    },
+    {
+      "name": "雪櫃-Supply",
+      "items": [
+        {
+          "itemId": "7tcGoxErzVIrUbj88c0T",
+          "qty": 1
+        },
+        {
+          "itemId": "99QWkkMRfi9WFfNkjnTe",
+          "qty": 1
+        },
+        {
+          "itemId": "9D7r8Q5kkXJMbqERiRGu",
+          "qty": 1
+        },
+        {
+          "itemId": "NWnPliLGe58zte5pO6qD",
+          "qty": 2
+        },
+        {
+          "itemId": "PlQfRMAstomlurnQyQ66",
+          "qty": 1
+        },
+        {
+          "itemId": "Q33AWJctX5U8fyDVz30x",
+          "qty": 1
+        },
+        {
+          "itemId": "c5WHXvqT4Yb0adUe0LoE",
+          "qty": 1
+        },
+        {
+          "itemId": "dKiuE75CnLbYjSpp2MTP",
+          "qty": 1
+        },
+        {
+          "itemId": "haZEJjHgeYfRiV2bDEl1",
+          "qty": 3
+        },
+        {
+          "itemId": "i7wlxh4dv3l4GZyUJUff",
+          "qty": 1
+        },
+        {
+          "itemId": "iXUWsZExUTFiphqyxwjf",
+          "qty": 1
+        },
+        {
+          "itemId": "lChgOnCcwnqkumj9VuK3",
+          "qty": 1
+        },
+        {
+          "itemId": "mj3RgBJHPFHHxxIGrqjq",
+          "qty": 1
+        },
+        {
+          "itemId": "nchrlWBu1y9QW52ZzVPH",
+          "qty": 1
+        },
+        {
+          "itemId": "nellYFoVpOOg0bq8MENw",
+          "qty": 1
+        },
+        {
+          "itemId": "pHSjD9XscXyRKWWnX4Bu",
+          "qty": 1
+        },
+        {
+          "itemId": "pX6OAsoPMy5z7JD4lQPD",
+          "qty": 1
+        },
+        {
+          "itemId": "qSdLqIHOzuiYP0dCeIdj",
+          "qty": 2
+        },
+        {
+          "itemId": "qdqAYkVNJONkklez2Xlh",
+          "qty": 1
+        },
+        {
+          "itemId": "sBjzFjur7rD1jxbwTJP9",
+          "qty": 1
+        },
+        {
+          "itemId": "vhTxlYxhlb0XLao4ftmJ",
+          "qty": 1
+        }
+      ],
+      "id": "7b81ddf7-f80e-4762-837f-8a7397433a7d"
+    },
+    {
+      "name": "Counter",
+      "items": [
+        {
+          "itemId": "0E3ec5VvKO6T1WxYtnGz",
+          "qty": 1
+        },
+        {
+          "itemId": "1LmKXiS0B4Jwz2XoqAMB",
+          "qty": 5
+        },
+        {
+          "itemId": "1zU7Da0yCr5S8bBcxohf",
+          "qty": 1
+        },
+        {
+          "itemId": "9D7r8Q5kkXJMbqERiRGu",
+          "qty": 1
+        },
+        {
+          "itemId": "Ab8jhOThO9FpbefGTrBH",
+          "qty": 2
+        },
+        {
+          "itemId": "CWhpmwWEDUqvkVSwE1DS",
+          "qty": 2
+        },
+        {
+          "itemId": "HeebW3xL4V4mGcboqSMH",
+          "qty": 1
+        },
+        {
+          "itemId": "KKzUH1Jm8wgwoEhNtUPo",
+          "qty": 1
+        },
+        {
+          "itemId": "NWnPliLGe58zte5pO6qD",
+          "qty": 2
+        },
+        {
+          "itemId": "Oaij2GYke5nkdQQMuo7U",
+          "qty": 1
+        },
+        {
+          "itemId": "SHtY2OBP4moF1AIraBQX",
+          "qty": 1
+        },
+        {
+          "itemId": "SUNtYE6ChjmjGKvCxxPo",
+          "qty": 2
+        },
+        {
+          "itemId": "YaNMYnEx4PjerhyBXBDm",
+          "qty": 1
+        },
+        {
+          "itemId": "bsHTaXm03alsM8X2wzpZ",
+          "qty": 1
+        },
+        {
+          "itemId": "daj0IH0CNVgSx96jJHAW",
+          "qty": 1
+        },
+        {
+          "itemId": "hT4QzeqwCbR3uj5Iwl3c",
+          "qty": 1
+        }
+      ],
+      "id": "c3f44b9b-37d7-487b-9605-b5d0a6d5fc81"
+    },
+    {
+      "name": "雪櫃- Kitchen",
+      "items": [
+        {
+          "itemId": "8IewFmIrcpNurcaCgZrO",
+          "qty": 1
+        },
+        {
+          "itemId": "AgQ9sJNVqPxHXCNaPtX9",
+          "qty": 1
+        },
+        {
+          "itemId": "CWhpmwWEDUqvkVSwE1DS",
+          "qty": 1
+        },
+        {
+          "itemId": "JurRVZT00UsQDPCgtfZJ",
+          "qty": 1
+        },
+        {
+          "itemId": "Ml6JhwlqF8Vr0henEver",
+          "qty": 1
+        },
+        {
+          "itemId": "SMYBew0LdHmP2xeY3YbH",
+          "qty": 1
+        },
+        {
+          "itemId": "XXODu7K9IwIArBlJ4BYU",
+          "qty": 5
+        },
+        {
+          "itemId": "XmsYEMiDZabVV3OebZi2",
+          "qty": 1
+        },
+        {
+          "itemId": "ao9GJ3B896vVpqugopCy",
+          "qty": 1
+        },
+        {
+          "itemId": "bVnP5gG60UFOMV9YUaSO",
+          "qty": 1
+        },
+        {
+          "itemId": "beMp3ddArowqJTLPejPb",
+          "qty": 1
+        },
+        {
+          "itemId": "gZrFobgxDwrDpxfCfiRz",
+          "qty": 3
+        },
+        {
+          "itemId": "oM79OsTAup92Z5xo9Q7n",
+          "qty": 3
+        },
+        {
+          "itemId": "zNzilRmR3tDHs21k6gmp",
+          "qty": 1
+        }
+      ],
+      "id": "cb4edbcf-c7e8-4609-aa52-0f4f301f0f2c"
+    }
+  ],
+  "categoryOrder": [
+    "常用",
+    "雞件",
+    "飯類/小食",
+    "飲品",
+    "早餐成品",
+    "早餐",
+    "醬汁",
+    "原料",
+    "配料",
+    "奶製品",
+    "蔬果類",
+    "廚房雪櫃",
+    "冷凍食品",
+    "早餐（溶解及未開封）",
+    "飽/卷（早）",
+    "飽/卷（常）",
+    "湯類",
+    "特制"
+  ],
+  "uuids": [
+    "e7810a71-73ae-499d-8c15-faa9aef0c3f2",
+    "000018f0-0000-1000-8000-00805f9b34fb"
+  ]
+}
